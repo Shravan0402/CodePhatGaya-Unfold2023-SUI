@@ -4,7 +4,7 @@ Sure! Here's a sample README file for the repository you provided:
 
 # CodePhatGaya-Unfold2023-SUI
 
-![CodePhatGaya-Unfold2023-SUI Logo](https://github.com/Shravan0402/CodePhatGaya-Unfold2023-SUI/blob/main/logo.png)
+
 
 ## Overview
 CodePhatGaya-Unfold2023-SUI is a project developed as part of Unfold2023, an event focused on software development and innovation. This project aims to provide a user-friendly interface for a specific application or system.
